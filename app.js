@@ -175,7 +175,6 @@ const renderPage = (t, config) => {
           ${t.ceremony.kicker ? `<span class="kicker">${t.ceremony.kicker}</span>` : ""}
           <h2>${t.ceremony.title}</h2>
           <p>${t.ceremony.text}</p>
-          /* ${button(config.ceremonyContact, t.ceremony.button, "arrow", "button-outline")} */
         </div>
       </section>
 
