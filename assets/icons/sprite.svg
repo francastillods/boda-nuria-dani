@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="icon-map" viewBox="0 0 48 48">
+    <path d="M24 43s13-12.2 13-25A13 13 0 0 0 11 18c0 12.8 13 25 13 25Z"/>
+    <circle cx="24" cy="18" r="4.5"/>
+  </symbol>
+  <symbol id="icon-utensils" viewBox="0 0 48 48">
+    <path d="M14 5v15M9 5v10c0 4 2 6 5 6s5-2 5-6V5M14 21v22M31 43V26M31 26c-4 0-7-4-7-10S27 5 31 5v21ZM38 5v38"/>
+  </symbol>
+  <symbol id="icon-hanger" viewBox="0 0 48 48">
+    <path d="M20 12a4.5 4.5 0 1 1 6 4.3c-1.2.5-2 1.5-2 2.7v2M24 21 5 36h38L24 21Z"/>
+  </symbol>
+  <symbol id="icon-rings" viewBox="0 0 48 48">
+    <circle cx="19" cy="27" r="11"/><circle cx="30" cy="27" r="11"/>
+    <path d="m14 11 5-6 5 6-5 5-5-5Z"/>
+  </symbol>
+  <symbol id="icon-glasses" viewBox="0 0 48 48">
+    <path d="m8 6 4 17c1 4 4 6 8 6s7-2 8-6l4-17H8ZM20 29v11M13 43h14M33 14h8l-3 12c-.8 3-3 4-6 4"/>
+  </symbol>
+  <symbol id="icon-music" viewBox="0 0 48 48">
+    <path d="M19 36V12l20-4v24M19 20l20-4"/>
+    <ellipse cx="13" cy="37" rx="6" ry="4"/><ellipse cx="33" cy="33" rx="6" ry="4"/>
+  </symbol>
+  <symbol id="icon-gift" viewBox="0 0 48 48">
+    <path d="M6 20h36v23H6zM4 13h40v8H4zM24 13v30"/>
+    <path d="M24 13c-8 0-12-2-12-6 0-2 2-4 5-3 4 1 7 9 7 9ZM24 13c8 0 12-2 12-6 0-2-2-4-5-3-4 1-7 9-7 9Z"/>
+  </symbol>
+  <symbol id="icon-dress" viewBox="0 0 48 48">
+    <path d="M19 5h10l-2 11c5 6 9 15 11 27H10c2-12 6-21 11-27L19 5Z"/>
+    <path d="M20 16h8"/>
+  </symbol>
+  <symbol id="icon-spark" viewBox="0 0 48 48">
+    <path d="M24 3c1 12 5 17 17 18-12 1-16 6-17 18-1-12-5-17-17-18 12-1 16-6 17-18Z"/>
+    <path d="M39 32c.4 5 2 7 7 8-5 .5-6.6 2.5-7 8-.4-5.5-2-7.5-7-8 5-.5 6.6-3 7-8Z"/>
+  </symbol>
+  <symbol id="icon-cocktail" viewBox="0 0 48 48">
+    <path d="M7 6h34L24 27 7 6ZM24 27v14M15 43h18M13 14h22M34 5c0 5 3 7 8 7"/>
+  </symbol>
+  <symbol id="icon-xavi" viewBox="0 0 48 48">
+    <circle cx="24" cy="24" r="20"/>
+    <path d="m15 15 18 18M33 15 15 33"/>
+  </symbol>
+  <symbol id="icon-camera" viewBox="0 0 48 48">
+    <path d="M5 15h9l3-6h14l3 6h9v27H5V15Z"/>
+    <circle cx="24" cy="28" r="9"/><path d="M36 20h2"/>
+  </symbol>
+  <symbol id="icon-phone" viewBox="0 0 48 48">
+    <path d="M16 6 9 11c-2 2 0 10 8 19s16 13 19 11l6-6-9-8-5 5c-3-1-10-8-11-12l5-5-6-9Z"/>
+  </symbol>
+  <symbol id="icon-arrow" viewBox="0 0 48 48">
+    <path d="M6 24h34M29 13l11 11-11 11"/>
+  </symbol>
+</svg>

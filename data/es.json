@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "place": "Lugar",
+    "schedule": "Horarios",
+    "questions": "Antes de que preguntéis",
+    "rsvp": "Confirmar"
+  },
+  "hero": {
+    "eyebrow": "Boda de",
+    "names": "Núria y Dani",
+    "date": "11 · 10 · 2026",
+    "scroll": "Descubre el día",
+    "countdownTitle": "¡Ya falta menos!",
+    "days": "días",
+    "hours": "horas",
+    "minutes": "minutos",
+    "seconds": "segundos",
+    "today": "¡Hoy es el gran día!"
+  },
+  "venue": {
+    "kicker": "Dónde nos encontramos",
+    "title": "Masia La Tartana",
+    "address": "Camí de la Font de la Tartana, 82 · 08230 Matadepera, Barcelona",
+    "maps": "Abrir en Google Maps",
+    "taxiTitle": "Una vuelta sin complicaciones",
+    "taxiText": "Si alguien lo necesita, os dejamos el teléfono de los taxis de Terrassa:",
+    "taxiButton": "93 735 77 77",
+    "cloakroom": "Hay guardarropa"
+  },
+  "rsvp": {
+    "kicker": "¿Nos acompañas?",
+    "title": "No olvides confirmar tu asistencia",
+    "text": "Cuéntanos también qué te apetece comer, si venís con niños y cualquier alergia o necesidad alimentaria.",
+    "button": "Confirmar asistencia"
+  },
+  "schedule": {
+    "kicker": "",
+    "title": "Un día para celebrar",
+    "items": [
+      {
+        "time": "13:00 h",
+        "title": "Ceremonia",
+        "note": "Menos para Núria, que debe llegar a las 12:30 h para ser puntual.",
+        "icon": "rings"
+      },
+      {
+        "time": "14:00 h",
+        "title": "Aperitivo",
+        "note": "Empezamos a brindar.",
+        "icon": "glasses"
+      },
+      {
+        "time": "15:30 h",
+        "title": "Comida",
+        "note": "Nos sentamos a la mesa.",
+        "icon": "utensils"
+      },
+      {
+        "time": "17:30 h",
+        "title": "Fiesta",
+        "note": "¡Que suene la música!",
+        "icon": "music"
+      }
+    ]
+  },
+  "questions": {
+    "kicker": "",
+    "title": "Antes de que preguntéis...",
+    "intro": "Nos hace muchísima ilusión compartir este día con vosotros. Para que todo fluya, aquí van unos apuntes:",
+    "cards": [
+      {
+        "question": "¿Os podemos hacer un regalo?",
+        "answer": "Si queréis tener un detalle con nosotros, encontraréis una mesa donde dejar el regalo. En caso de que sea un sobre, preferimos esta opción a Bizum o transferencia.",
+        "icon": "gift"
+      },
+      {
+        "question": "¿Puedo ir de blanco?",
+        "answer": "Núria será la única persona que puede ir de blanco. Evitad también colores similares, como el beige. Si tienes dudas, la respuesta es no.",
+        "icon": "dress"
+      },
+      {
+        "question": "¿Cómo debemos ir?",
+        "answer": "El dress code es elegante, pero venid como os sintáis cómodos. Eso sí: mínimo camisa.",
+        "icon": "hanger"
+      },
+      {
+        "question": "¿Podemos preparar una sorpresa?",
+        "answer": "Nosotros ya hemos preparado unas cuantas. Os pedimos que ese día no añadáis pedidas, anuncios ni grandes sorpresas personales. Ya encontraremos otro momento para celebrarlas como toca.",
+        "icon": "spark"
+      },
+      {
+        "question": "Fiesta sí, drogas no",
+        "answer": "Venid con muchas ganas de pasarlo bien, pero sin drogas, por favor. Habrá alcohol de sobra; aun así, bebed con moderación.",
+        "icon": "cocktail"
+      },
+      {
+        "question": "Nota importante para Xavi S.",
+        "answer": "Xavi S. no puede vomitar. No hacen falta más explicaciones.",
+        "icon": "xavi"
+      }
+    ],
+    "closing": "¡Os animamos a reír, llorar, disfrutar y pasarlo muy bien con nosotros!",
+    "contact": "Si tenéis dudas, podéis escribirnos para preguntar."
+  },
+  "ceremony": {
+    "kicker": "",
+    "title": "Sobre la ceremonia",
+    "text": "Si queréis saber algo sobre la ceremonia, tendréis que hablar con Fran e Inés.",
+    "button": "Contactar"
+  },
+  "photos": {
+    "kicker": "",
+    "title": "Compartid vuestras fotos",
+    "text": "Os compartimos un enlace para que podáis subir las fotos que hagáis con vuestros móviles el día de la boda. Nosotros ya os haremos llegar las fotos de los profesionales.",
+    "button": "Subir fotografías"
+  },
+  "footer": {
+    "text": "Qué ganas de celebrarlo con vosotros",
+    "names": "Núria y Dani",
+    "date": "11 de octubre de 2026"
+  }
+}
